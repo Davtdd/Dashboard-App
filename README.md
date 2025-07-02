@@ -1,5 +1,26 @@
-## Next.js App Router Course - Starter
+# 📊 Dashboard de gestion de factures
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Ce projet est un tableau de bord développé avec **Next.js** et **TypeScript** permettant de gérer des factures. Il inclut un système de connexion, déconnexion, l'affichage de toutes les factures, ainsi que l'ajout de nouvelles, supression et modification.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+---
+
+## 🚀 Fonctionnalités principales
+
+- 🔐 Authentification (connexion / déconnexion)
+- 📄 Affichage de la liste complète des factures
+- ➕ Ajout d’une nouvelle facture via un formulaire
+- ❌ Suppression des factures
+- ✍🏾 Modification des factures
+- 🧼 Interface épurée, responsive
+
+---
+
+## 🛠️ Technologies utilisées
+
+- **Next.js** – Framework React pour le rendu côté serveur et les routes
+- **TypeScript** – Typage statique robuste
+- **React**
+- **Tailwind CSS** – Pour le style rapide et responsive
+- **(optionnel) neonpostgres** –
+
+---
